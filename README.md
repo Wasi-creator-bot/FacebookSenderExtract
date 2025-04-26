@@ -1,6 +1,6 @@
 # Facebook Data Extractor Pro 5.3.1-Group Members Scraper & Contact Info Extractor & Bulk Sender
 
-A powerful tool for extracting Facebook group member data, generating contact lists, and managing bulk messaging campaigns. Designed for marketers, researchers, and group administrators.
+A powerful tool for extracting Facebook group member data, generating contact lists, and managing bulk messaging campaigns. Designed for marketers, researchers, and group.
 
 ---
 
